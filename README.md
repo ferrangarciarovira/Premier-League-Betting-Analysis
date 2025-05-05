@@ -58,3 +58,27 @@ You must have **Python 3.9+** installed.
 ```bash
 git clone https://github.com/ferrangarciarovira/Premier-League-Betting-Analysis.git
 cd Premier-League-Betting-Analysis
+```
+
+### 2. Create a virtual environment and activate it (Windows)
+```bash
+python -m venv test_env
+.\test_env\Scripts\activate
+```
+
+### 3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the notebook
+```bash
+jupyter notebook
+```
+
+---
+
+## Data Structure
+- `data/`: contains match CSV and Excel files
+- `notebooks/`: main analysis notebook
+- `reports/`: final presentation (PDF)
