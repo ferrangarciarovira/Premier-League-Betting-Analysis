@@ -1,6 +1,6 @@
 # Betting Inefficiencies in Premier League Odds
 
-**Advanced Python Programming Project** | *Bocconi University, Spring 2024*
+**Advanced Python Programming Project** | *Bocconi University, Winter 2024*
 
 ## Overview
 This repository hosts a detailed analysis investigating betting market inefficiencies within the English Premier League from the seasons 2005 to 2024. Using extensive historical odds and match data, we implemented various betting strategies to test market efficiency.
