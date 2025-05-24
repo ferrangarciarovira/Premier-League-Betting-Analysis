@@ -1,9 +1,9 @@
 pandas
 numpy
+yfinance
 matplotlib
-seaborn
 scipy
-scikit-learn
-statsmodels
-jupyter
-openpyxl
+fbm
+hurst
+pandas_datareader
+seaborn
